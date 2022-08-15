@@ -12,5 +12,5 @@ hello GIT,hello chang
 hello GIT,hello chang
 hello GIT,hello chang
 hello GIT,hello chang
-hello GIT,hello chang
-hello GIT,hello chang
+hello GIT,hello chang master test
+hello GIT,hello chang hot-fix test
